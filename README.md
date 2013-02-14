@@ -12,6 +12,10 @@ As a submodule of your project
     $ git submodule add http://github.com/SpeCT/node-c2dm.git c2dm
     $ git submodule update --init
 
+The retry module is used, install if not present
+
+    $ npm install retry
+
 ## Usage
 ### Load in the module
 
